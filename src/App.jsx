@@ -8,7 +8,8 @@ function App() {
 
   return (
     <>
-    <h1>hello c211 Section</h1>
+    <h1>Hello CICD c211-Section</h1>
+    <h1>Welcome</h1>
     </>
   )
 }
