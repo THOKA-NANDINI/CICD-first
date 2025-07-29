@@ -7,7 +7,8 @@ function App() {
   const [count, setCount] = useState(0)
 
   return (
-    <>
+     <>
+    <div className="app-container"></div>
     <h1>Hello CICD c211-Section</h1>
     <h1>Welcome</h1>
     </>
